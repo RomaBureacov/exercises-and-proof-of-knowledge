@@ -50,7 +50,7 @@ class MyDate {
 	// variables
 	private short year;
 	private byte month;
-	byte day;
+	private byte day;
 	
 	// constructors
 	public MyDate() {
